@@ -1,0 +1,9 @@
+C:\Users\70439\Desktop\Aula02\DAL\bin\Debug\BancoMuitoLouco2.mdf
+C:\Users\70439\Desktop\Aula02\DAL\bin\Debug\BancoMuitoLouco2_log.ldf
+C:\Users\70439\Desktop\Aula02\DAL\bin\Debug\DAL.dll
+C:\Users\70439\Desktop\Aula02\DAL\bin\Debug\DAL.pdb
+C:\Users\70439\Desktop\Aula02\DAL\bin\Debug\Models.dll
+C:\Users\70439\Desktop\Aula02\DAL\bin\Debug\Models.pdb
+C:\Users\70439\Desktop\Aula02\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\70439\Desktop\Aula02\DAL\obj\Debug\DAL.dll
+C:\Users\70439\Desktop\Aula02\DAL\obj\Debug\DAL.pdb

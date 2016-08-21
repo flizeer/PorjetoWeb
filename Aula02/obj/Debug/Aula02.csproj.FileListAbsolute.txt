@@ -1,0 +1,18 @@
+C:\Users\70439\Documents\Visual Studio 2013\Projects\AULAWEB\Aula02\Aula02\bin\Aula02.dll.config
+C:\Users\70439\Documents\Visual Studio 2013\Projects\AULAWEB\Aula02\Aula02\bin\Aula02.dll
+C:\Users\70439\Documents\Visual Studio 2013\Projects\AULAWEB\Aula02\Aula02\bin\Aula02.pdb
+C:\Users\70439\Documents\Visual Studio 2013\Projects\AULAWEB\Aula02\Aula02\obj\Debug\Aula02.csprojResolveAssemblyReference.cache
+C:\Users\70439\Documents\Visual Studio 2013\Projects\AULAWEB\Aula02\Aula02\obj\Debug\Aula02.dll
+C:\Users\70439\Documents\Visual Studio 2013\Projects\AULAWEB\Aula02\Aula02\obj\Debug\Aula02.pdb
+C:\Users\70439\Desktop\Aula02\Aula02\bin\BancoMuitoLouco2.mdf
+C:\Users\70439\Desktop\Aula02\Aula02\bin\BancoMuitoLouco2_log.ldf
+C:\Users\70439\Desktop\Aula02\Aula02\bin\Aula02.dll.config
+C:\Users\70439\Desktop\Aula02\Aula02\bin\Aula02.dll
+C:\Users\70439\Desktop\Aula02\Aula02\bin\Aula02.pdb
+C:\Users\70439\Desktop\Aula02\Aula02\bin\DAL.dll
+C:\Users\70439\Desktop\Aula02\Aula02\bin\Models.dll
+C:\Users\70439\Desktop\Aula02\Aula02\bin\DAL.pdb
+C:\Users\70439\Desktop\Aula02\Aula02\bin\Models.pdb
+C:\Users\70439\Desktop\Aula02\Aula02\obj\Debug\Aula02.csprojResolveAssemblyReference.cache
+C:\Users\70439\Desktop\Aula02\Aula02\obj\Debug\Aula02.dll
+C:\Users\70439\Desktop\Aula02\Aula02\obj\Debug\Aula02.pdb
